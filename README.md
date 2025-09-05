@@ -1,1 +1,1 @@
-# _Thresholding
+# CV2 Thresholding Methods
